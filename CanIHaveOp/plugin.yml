@@ -1,0 +1,7 @@
+name: CanIHaveOp
+main: me.arns.CanIhaveOp
+version: 1.0
+commands:
+   canihaveop:
+      description: Do you want op? Just run this command and we will decide.
+      usage: /<command>
