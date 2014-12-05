@@ -1,6 +1,7 @@
 name: CanIHaveOp
-main: me.arns.CanIhaveOp
+main: me.arns.canihaveop.CanIhaveOp
 version: 1.0
+author: arns
 commands:
    canihaveop:
       description: Do you want op? Just run this command and we will decide.
